@@ -1,0 +1,131 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    padding-left: 250px;
+    padding-top: 50px;
+}
+
+.menu {
+    list-style-type: none;
+    display: flex;
+    padding-left: 800px;
+    margin-top: -120px;
+    color: blue;
+}
+
+.menu :hover {
+    color: black;
+}
+
+.menu1 {
+    text-decoration: none;
+    padding-left: 100px;
+    font-size: 25px;
+
+}
+
+.img_dubai {
+    padding-left: 200px;
+    padding-top: 100px;
+    margin-bottom: 20px;
+}
+
+.text_dubai {
+    padding-left: 1150px;
+    margin-top: -350px;
+
+}
+
+
+.img_dubai2 {
+    padding-left: 200px;
+    margin-top: 300px;
+}
+
+.text_dubai2 {
+    padding-left: 1150px;
+    margin-top: -450px;
+}
+
+
+.img_dubai3 {
+    padding-left: 200px;
+    padding-top: 400px;
+}
+
+.text_dubai3 {
+    padding-left: 1150px;
+    margin-top: -350px;
+}
+
+.botton {
+    background-color: black;
+    width: 1900px;
+    height: 300px;
+    margin-top: 238px;
+}
+
+.n_tel {
+    margin-top: -250px;
+    padding-left: 900px;
+    color: rgb(255, 255, 255);
+}
+
+.menu2 {
+    list-style-type: none;
+    padding-top: 30px;
+    padding-left: 100px;
+}
+
+.menu3 {
+    color: white;
+    text-decoration: none;
+    padding-left: 100px;
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.menu2 :hover {
+    color: aqua;
+}
+
+.botton_text {
+    padding-left: 900px;
+    margin-top: -100px;
+    list-style-type: none;
+    font-size: 30px;
+
+}
+
+.text_botton {
+    display: flex;
+    text-decoration: none;
+    color: white;
+}
+
+.botton_text :hover {
+    color: aqua;
+}
+
+.logotip {
+    padding-left: 1400px;
+    margin-top: -150px;
+}
+
+.ap {
+    text-decoration: none;
+    color: black;
+}
+
+.poisk {
+    background-color: rgb(102, 138, 255);
+    width: 180px;
+    height: 50px;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 1300px;
+    padding-top: 10px;
+}

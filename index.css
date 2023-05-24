@@ -1,0 +1,357 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    padding-left: 250px;
+    padding-top: 50px;
+}
+
+.menu {
+    list-style-type: none;
+    display: flex;
+    padding-left: 800px;
+    margin-top: -120px;
+    color: blue;
+}
+
+.menu :hover {
+    color: black;
+}
+
+.menu1 {
+    text-decoration: none;
+    padding-left: 100px;
+    font-size: 25px;
+}
+
+
+.algoritm {
+    padding-left: 200px;
+    padding-top: 100px;
+}
+
+
+.background1 {
+    background-color: rgb(126, 125, 125);
+    margin-top: 100px;
+    height: 100px;
+}
+
+.text_bron {
+    padding-top: 30px;
+    padding-left: 800px;
+    font-size: 30px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.text_alg {
+    list-style-type: none;
+    padding-left: 900px;
+    margin-top: -430px;
+    font-size: 29px;
+    font-weight: bold;
+    line-height: 70px;
+    text-decoration: none;
+}
+
+.anim {
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.text_alg :hover {
+    font-weight: bold;
+    font-size: 40px;
+    color: blue;
+}
+
+.cel_glav {
+    font-size: 30px;
+    margin-top: 150px;
+    margin-bottom: -70px;
+    background-color: rgb(126, 125, 125);
+    color: whitesmoke;
+}
+
+.cel {
+    padding-left: 200px;
+    margin-top: -420px;
+    font-weight: bold;
+    font-size: 23px;
+    color: rgb(0, 0, 0);
+}
+
+.cel1 {
+    font-size: 27px;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-left: 350px;
+    color: rgb(0, 0, 0);
+}
+
+.deviz {
+    padding-left: 200px;
+    padding-top: 100px;
+    font-weight: bold;
+    font-size: 23px;
+    color: rgb(0, 0, 0);
+}
+
+.deviz1 {
+    padding-left: 160px;
+    font-size: 27px;
+    font-weight: bold;
+    padding-top: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.imgcel {
+    margin-left: -500px;
+    padding-top: 200px;
+}
+
+.qwe {
+    text-align: center;
+}
+
+.logo_otziv {
+    margin-left: -1500px;
+    padding-top: 100px;
+}
+
+.treygol {
+    padding-left: 1700px;
+    margin-top: -110px;
+}
+
+.otzivi {
+    padding-top: 100px;
+    margin-left: -1000px;
+
+}
+
+.text_otziv {
+    padding-left: 1200px;
+    margin-top: -80px;
+}
+
+/*========================================================================= */
+.brutal p {
+    text-align: center;
+}
+
+#mode {
+    text-align: center;
+}
+
+.mode-input {
+    margin-top: 100px;
+}
+
+.mode-input h1 {
+    margin-left: -180px;
+    color: #000000;
+}
+
+.mode-input h2 {
+    margin-left: -30px;
+    color: #000000;
+}
+
+.mode-input h3 {
+    margin-left: -100px;
+    font-size: 23px;
+    color: #000000;
+}
+
+.mode-input h4 {
+    margin-left: -130px;
+    font-size: 25px;
+    color: #000000;
+}
+
+.input {
+    height: 40px;
+    width: 340px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+.poisk {
+    background-color: rgb(69, 187, 255);
+    width: 350px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 25px;
+    padding-top: 10px;
+}
+
+
+.backgraund_brutal {
+    background-color: rgb(78, 167, 167);
+    width: 400px;
+    margin-left: 760px;
+}
+
+.img_hon {
+    background-image: url(img/1se17vcb4pr4c8gcs4c840oss.jpg);
+    width: 800px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 560px;
+}
+
+.akciya {
+    margin-top: 40px;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    padding-left: 890px;
+    background-color: rgb(126, 125, 125);
+}
+
+.text_akcii {
+    font-size: 35px;
+    color: rgb(89, 11, 214);
+    font-weight: bold;
+    padding-left: 150px;
+    padding-top: 100px;
+
+}
+
+
+.text_akcii2 {
+    font-size: 20px;
+    color: rgb(89, 11, 214);
+    padding-top: 50px;
+    padding-left: 130px;
+}
+
+
+.text_akcii3 {
+    font-size: 20px;
+    color: rgb(89, 11, 214);
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.ert {
+    background-color: rgb(14, 1, 122);
+    width: 100px;
+    height: 30px;
+    margin-top: 20px;
+    padding-left: 15px;
+    padding-top: 10px;
+    color: aliceblue;
+}
+
+.ytr {
+    padding-left: 915px;
+    margin-top: -70px;
+}
+
+.img_fly {
+    padding-left: 330px;
+    padding-top: 30px;
+}
+
+.email-text p {
+    text-align: center;
+    margin-left: -215px;
+    padding-top: 50px;
+    font-size: 22px;
+    padding-bottom: 30px;
+}
+
+.input-akciya {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.input-akciya input {
+    padding-left: 10px;
+    width: 380px;
+    border-radius: 10px;
+    border: none;
+    height: 30px;
+}
+
+.button-akciya {
+    text-align: center;
+}
+
+.button-akciya a button {
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    width: 390px;
+    height: 40px;
+    background-color: rgb(47, 120, 255);
+}
+
+.email {
+    background-color: rgb(43, 226, 165);
+    width: 400px;
+    height: 230px;
+    margin-left: 1000px;
+    margin-top: -300px;
+}
+
+
+.botton{
+    background-color: black;
+    width: 1900px;
+    height: 300px;
+    margin-top: 70px;
+}
+
+.n_tel{
+    margin-top: -250px;
+    padding-left: 900px;
+    color: rgb(255, 255, 255);
+}
+.menu2{
+    list-style-type: none;
+    padding-top: 30px;
+    padding-left: 100px;
+}
+
+.menu3{
+    color: white;
+    text-decoration: none;
+    padding-left: 100px;
+    font-size: 25px;
+    line-height: 40px;
+}
+.menu2 :hover{
+    color: aqua;
+}
+
+.botton_text{
+    padding-left: 900px;
+    margin-top: -100px;
+    list-style-type: none;
+    font-size: 30px;
+    
+}
+
+.text_botton{
+    display: flex;
+    text-decoration: none;
+    color: white;
+}
+.botton_text :hover{
+    color: aqua;
+}
+
+.logotip{
+    padding-left: 1400px;
+    margin-top: -150px;
+}

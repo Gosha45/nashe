@@ -1,0 +1,197 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    padding-left: 250px;
+    padding-top: 50px;
+}
+
+.menu {
+    list-style-type: none;
+    display: flex;
+    padding-left: 800px;
+    margin-top: -120px;
+    color: blue;
+}
+
+.menu :hover {
+    color: black;
+}
+
+.menu1 {
+    text-decoration: none;
+    padding-left: 100px;
+    font-size: 25px;
+}
+
+
+.zabronirovat{
+    padding-left: 850px;
+    padding-top: 100px;
+    font-size: 40px;
+    color: b;
+}
+.brutal p {
+    text-align: center;
+}
+
+#mode {
+    text-align: center;
+}
+
+.mode-input {
+    margin-left: -600px;
+}
+
+.mode-input {
+    margin-top: 100px;
+}
+
+.h1 {
+    margin-left: -150px;
+    color: #000000;
+}
+
+.mode-input h2 {
+    margin-left: 20px;
+    color: #000000;
+}
+
+.mode-input h3 {
+    margin-left: -70px;
+    font-size: 23px;
+    color: #000000;
+}
+
+.zona51 {
+    margin-left: -130px;
+    font-size: 25px;
+    color: #000000;
+}
+
+
+.input {
+    height: 40px;
+    width: 340px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+.ap {
+    text-decoration: none;
+    color: black;
+}
+
+.poisk {
+    background-color: rgb(51, 85, 196);
+    width: 400px;
+    height: 50px;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 810px;
+    padding-top: 10px;
+}
+
+.marhrut {
+    margin-left: -230px;
+    font-size: 25px;
+    color: #000000;
+}
+
+.vibor-ysluq h1 {
+    margin-left: 1200px;
+    margin-top: -610px;
+}
+
+.papa1 {
+    margin-left: 1200px;
+    margin-top: 20px;
+}
+
+.moya1 {
+    width: 30px;
+    height: 20px;
+    margin-top: 5px;
+    margin-left: -5px;
+}
+
+.linya {
+    border-bottom: 1px solid black;
+    margin-top: 6px;
+    width: 500px;
+}
+
+.moya3 {
+    width: 300px;
+    height: 25px;
+    border: none;
+    margin-top: 3px;
+    border-radius: 10px;
+}
+
+.papa2 {
+    margin-left: 1200px;
+    margin-top: 10px;
+}
+.broni_backgraund{
+    background-color: rgb(43, 172, 172);
+    width: 1900px;
+    height: 650px;
+}
+.botton {
+    background-color: black;
+    width: 1900px;
+    height: 300px;
+}
+
+.n_tel {
+    margin-top: -250px;
+    padding-left: 900px;
+    color: rgb(255, 255, 255);
+}
+
+.menu2 {
+    list-style-type: none;
+    padding-top: 30px;
+    padding-left: 100px;
+}
+
+.menu3 {
+    color: white;
+    text-decoration: none;
+    padding-left: 100px;
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.menu2 :hover {
+    color: aqua;
+}
+
+.botton_text {
+    padding-left: 900px;
+    margin-top: -100px;
+    list-style-type: none;
+    font-size: 30px;
+
+}
+
+.text_botton {
+    display: flex;
+    text-decoration: none;
+    color: white;
+}
+
+.botton_text :hover {
+    color: aqua;
+}
+
+.logotip {
+    padding-left: 1400px;
+    margin-top: -150px;
+}
